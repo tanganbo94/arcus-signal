@@ -1,0 +1,13 @@
+API.txt
+.env
+.env.*
+__pycache__/
+*.pyc
+logs/
+signal_state.json
+scan_latest.json
+*.zip
+watch_state.json
+
+.venv/
+*.bak

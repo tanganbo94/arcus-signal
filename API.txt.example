@@ -1,0 +1,14 @@
+# 复制本文件为 API.txt，只保存在本机，不要上传或发到聊天。
+# 本脚本只使用 Arcus，不需要 Entropy / Hyperliquid 密钥。
+ARCUS_SIGNING_KEY=
+ARCUS_ACCOUNT_INDEX=0
+ARCUS_WALLET_ADDRESS=
+# 如访问公网超时，取消下一行注释并按本机代理修改：
+# PROXY=http://127.0.0.1:10808
+
+# 本地自动盯盘（start_watch.bat）参数，可按账户修改：
+NOTIONAL=50
+MAX_POSITIONS=5
+LOOP_SECONDS=60
+SCAN_MINUTES=15
+MIN_MARKET_CAP=100000000
